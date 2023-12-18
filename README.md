@@ -1,0 +1,1 @@
+Pipeline for transcribing score videos on YouTube ([example](https://www.youtube.com/watch?v=-HT5HahAUzU))
